@@ -1,0 +1,201 @@
+order_id,order_date,ship_date,ship_mode,customer_name,segment,state,country,market,region,sales,quantity,discount,profit
+ORD1,2023-12-17,2023-12-18,Standard Class,Customer_1,Consumer,Texas,USA,US,West,937.48,10,0.04,56.25
+ORD2,2023-09-24,2023-09-27,First Class,Customer_2,Corporate,California,USA,US,West,622.02,7,0.28,-111.96
+ORD3,2023-11-27,2023-11-29,Second Class,Customer_3,Consumer,California,USA,US,West,862.9,6,0.27,-146.69
+ORD4,2023-08-12,2023-08-15,First Class,Customer_4,Consumer,New York,USA,US,East,568.91,5,0.06,22.76
+ORD5,2023-05-14,2023-05-20,First Class,Customer_5,Corporate,California,USA,US,Central,276.33,4,0.29,-52.5
+ORD6,2023-11-20,2023-11-27,Second Class,Customer_6,Corporate,Texas,USA,US,West,412.52,10,0.25,-61.88
+ORD7,2023-02-09,2023-02-14,Second Class,Customer_7,Corporate,California,USA,US,East,900.09,2,0.29,-171.02
+ORD8,2023-04-21,2023-04-24,Second Class,Customer_8,Home Office,Texas,USA,US,Central,164.17,10,0.16,-9.85
+ORD9,2023-10-16,2023-10-17,Standard Class,Customer_9,Consumer,Texas,USA,US,East,102.61,10,0.01,9.23
+ORD10,2023-08-25,2023-08-27,First Class,Customer_10,Corporate,Texas,USA,US,West,166.55,1,0.04,9.99
+ORD11,2023-01-02,2023-01-08,First Class,Customer_11,Home Office,New York,USA,US,Central,625.6,2,0.26,-100.1
+ORD12,2023-01-04,2023-01-10,Standard Class,Customer_12,Consumer,New York,USA,US,Central,902.93,4,0.1,0.0
+ORD13,2023-05-18,2023-05-21,First Class,Customer_13,Home Office,California,USA,US,Central,879.65,1,0.28,-158.34
+ORD14,2023-01-23,2023-01-28,Second Class,Customer_14,Consumer,New York,USA,US,West,451.8,8,0.29,-85.84
+ORD15,2023-01-27,2023-02-01,Standard Class,Customer_15,Home Office,Texas,USA,US,East,879.98,9,0.0,88.0
+ORD16,2023-12-07,2023-12-14,Second Class,Customer_16,Corporate,New York,USA,US,Central,883.15,8,0.15,-44.16
+ORD17,2023-08-22,2023-08-25,Second Class,Customer_17,Home Office,California,USA,US,East,932.49,1,0.07,27.97
+ORD18,2023-08-04,2023-08-05,First Class,Customer_18,Home Office,California,USA,US,East,832.7,2,0.07,24.98
+ORD19,2023-04-20,2023-04-25,First Class,Customer_19,Consumer,Texas,USA,US,West,606.84,10,0.04,36.41
+ORD20,2023-01-11,2023-01-16,Standard Class,Customer_20,Home Office,New York,USA,US,East,139.13,10,0.17,-9.74
+ORD21,2023-07-22,2023-07-27,First Class,Customer_21,Corporate,Texas,USA,US,Central,362.04,4,0.06,14.48
+ORD22,2023-12-03,2023-12-07,First Class,Customer_22,Home Office,Texas,USA,US,West,298.94,10,0.04,17.94
+ORD23,2023-12-06,2023-12-10,First Class,Customer_23,Corporate,Texas,USA,US,West,566.32,9,0.17,-39.64
+ORD24,2023-02-05,2023-02-09,Second Class,Customer_24,Home Office,New York,USA,US,West,155.42,7,0.11,-1.55
+ORD25,2023-10-19,2023-10-22,First Class,Customer_25,Corporate,New York,USA,US,East,677.8,4,0.02,54.22
+ORD26,2023-09-14,2023-09-16,Standard Class,Customer_26,Consumer,California,USA,US,East,905.66,7,0.23,-117.74
+ORD27,2023-12-08,2023-12-14,First Class,Customer_27,Corporate,Texas,USA,US,East,507.83,6,0.04,30.47
+ORD28,2023-06-11,2023-06-14,Standard Class,Customer_28,Corporate,California,USA,US,West,606.09,2,0.18,-48.49
+ORD29,2023-09-14,2023-09-17,Second Class,Customer_29,Home Office,Texas,USA,US,West,388.65,2,0.15,-19.43
+ORD30,2023-12-20,2023-12-21,First Class,Customer_30,Home Office,California,USA,US,Central,800.29,5,0.09,8.0
+ORD31,2023-08-31,2023-09-07,Second Class,Customer_31,Consumer,Texas,USA,US,Central,113.74,9,0.07,3.41
+ORD32,2023-06-06,2023-06-12,Standard Class,Customer_32,Consumer,Texas,USA,US,East,646.53,5,0.14,-25.86
+ORD33,2023-03-11,2023-03-14,First Class,Customer_33,Consumer,Texas,USA,US,West,481.99,4,0.23,-62.66
+ORD34,2023-08-19,2023-08-26,Second Class,Customer_34,Corporate,Texas,USA,US,West,713.36,4,0.21,-78.47
+ORD35,2023-03-19,2023-03-24,Second Class,Customer_35,Corporate,New York,USA,US,East,821.68,9,0.21,-90.38
+ORD36,2023-11-10,2023-11-15,Second Class,Customer_36,Consumer,California,USA,US,West,348.65,5,0.12,-6.97
+ORD37,2023-02-28,2023-03-05,Second Class,Customer_37,Home Office,California,USA,US,West,379.43,10,0.1,0.0
+ORD38,2023-09-24,2023-10-01,Second Class,Customer_38,Consumer,New York,USA,US,Central,421.18,7,0.18,-33.69
+ORD39,2023-03-26,2023-03-29,Second Class,Customer_39,Home Office,New York,USA,US,West,763.67,2,0.1,0.0
+ORD40,2023-03-28,2023-04-02,Standard Class,Customer_40,Home Office,Texas,USA,US,Central,960.22,1,0.02,76.82
+ORD41,2023-08-17,2023-08-20,Second Class,Customer_41,Home Office,New York,USA,US,East,714.29,4,0.14,-28.57
+ORD42,2023-12-07,2023-12-09,Standard Class,Customer_42,Home Office,New York,USA,US,Central,700.94,3,0.21,-77.1
+ORD43,2023-01-12,2023-01-18,Standard Class,Customer_43,Home Office,New York,USA,US,East,324.94,9,0.18,-26.0
+ORD44,2023-08-13,2023-08-18,Standard Class,Customer_44,Consumer,Texas,USA,US,East,626.64,9,0.19,-56.4
+ORD45,2023-01-06,2023-01-08,Standard Class,Customer_45,Home Office,California,USA,US,East,295.8,4,0.17,-20.71
+ORD46,2023-07-05,2023-07-10,Second Class,Customer_46,Consumer,New York,USA,US,Central,461.81,9,0.09,4.62
+ORD47,2023-02-21,2023-02-23,Second Class,Customer_47,Corporate,Texas,USA,US,East,606.57,3,0.07,18.2
+ORD48,2023-08-29,2023-09-05,Standard Class,Customer_48,Home Office,Texas,USA,US,Central,536.37,3,0.08,10.73
+ORD49,2023-12-18,2023-12-24,Standard Class,Customer_49,Home Office,Texas,USA,US,East,494.73,6,0.23,-64.31
+ORD50,2023-04-06,2023-04-08,First Class,Customer_50,Home Office,California,USA,US,West,466.91,10,0.2,-46.69
+ORD51,2023-10-11,2023-10-15,First Class,Customer_51,Consumer,New York,USA,US,East,775.22,10,0.26,-124.04
+ORD52,2023-03-31,2023-04-03,First Class,Customer_52,Consumer,New York,USA,US,Central,901.73,3,0.12,-18.03
+ORD53,2023-07-26,2023-08-02,Standard Class,Customer_53,Corporate,New York,USA,US,East,425.82,9,0.28,-76.65
+ORD54,2023-12-07,2023-12-09,Second Class,Customer_54,Consumer,New York,USA,US,Central,800.22,5,0.03,56.02
+ORD55,2023-04-08,2023-04-15,Standard Class,Customer_55,Corporate,California,USA,US,Central,619.59,2,0.12,-12.39
+ORD56,2023-06-29,2023-07-05,First Class,Customer_56,Corporate,New York,USA,US,West,951.45,3,0.07,28.54
+ORD57,2023-12-22,2023-12-24,Second Class,Customer_57,Home Office,Texas,USA,US,Central,172.43,4,0.09,1.72
+ORD58,2023-09-21,2023-09-28,First Class,Customer_58,Consumer,Texas,USA,US,Central,702.61,5,0.29,-133.5
+ORD59,2023-04-20,2023-04-23,Second Class,Customer_59,Consumer,Texas,USA,US,East,967.62,5,0.22,-116.11
+ORD60,2023-09-19,2023-09-21,First Class,Customer_60,Corporate,California,USA,US,West,709.47,10,0.21,-78.04
+ORD61,2023-11-14,2023-11-15,Standard Class,Customer_61,Home Office,Texas,USA,US,Central,618.49,9,0.07,18.55
+ORD62,2023-05-02,2023-05-08,Second Class,Customer_62,Consumer,California,USA,US,East,480.03,10,0.1,0.0
+ORD63,2023-10-20,2023-10-26,Standard Class,Customer_63,Home Office,California,USA,US,Central,367.66,8,0.11,-3.68
+ORD64,2023-09-28,2023-09-29,Second Class,Customer_64,Corporate,California,USA,US,Central,749.46,1,0.22,-89.94
+ORD65,2023-04-14,2023-04-19,Standard Class,Customer_65,Home Office,Texas,USA,US,West,532.12,3,0.0,53.21
+ORD66,2023-07-22,2023-07-28,Second Class,Customer_66,Consumer,New York,USA,US,Central,142.73,6,0.17,-9.99
+ORD67,2023-06-29,2023-07-06,Standard Class,Customer_67,Home Office,California,USA,US,Central,250.83,1,0.1,0.0
+ORD68,2023-09-06,2023-09-13,First Class,Customer_68,Home Office,New York,USA,US,West,410.66,3,0.14,-16.43
+ORD69,2023-03-01,2023-03-03,Standard Class,Customer_69,Corporate,California,USA,US,East,670.22,8,0.05,33.51
+ORD70,2023-09-25,2023-10-02,Standard Class,Customer_70,Home Office,Texas,USA,US,West,875.3,2,0.14,-35.01
+ORD71,2023-09-24,2023-09-29,First Class,Customer_71,Consumer,New York,USA,US,East,757.53,10,0.06,30.3
+ORD72,2023-11-05,2023-11-09,Standard Class,Customer_72,Corporate,California,USA,US,Central,913.65,4,0.07,27.41
+ORD73,2023-04-16,2023-04-20,Second Class,Customer_73,Corporate,Texas,USA,US,West,231.17,10,0.11,-2.31
+ORD74,2023-06-29,2023-06-30,First Class,Customer_74,Consumer,Texas,USA,US,Central,372.4,3,0.25,-55.86
+ORD75,2023-06-11,2023-06-14,Standard Class,Customer_75,Home Office,California,USA,US,East,597.63,6,0.26,-95.62
+ORD76,2023-04-16,2023-04-20,Second Class,Customer_76,Consumer,California,USA,US,Central,156.33,9,0.21,-17.2
+ORD77,2024-01-01,2024-01-03,Standard Class,Customer_77,Home Office,Texas,USA,US,Central,748.09,5,0.0,74.81
+ORD78,2023-10-16,2023-10-23,Second Class,Customer_78,Home Office,New York,USA,US,West,494.32,4,0.09,4.94
+ORD79,2023-12-08,2023-12-13,Standard Class,Customer_79,Home Office,New York,USA,US,Central,298.09,2,0.19,-26.83
+ORD80,2023-02-05,2023-02-10,Second Class,Customer_80,Consumer,New York,USA,US,Central,413.0,6,0.05,20.65
+ORD81,2023-06-11,2023-06-12,First Class,Customer_81,Corporate,California,USA,US,Central,507.93,7,0.26,-81.27
+ORD82,2023-12-13,2023-12-19,First Class,Customer_82,Consumer,New York,USA,US,Central,758.81,1,0.14,-30.35
+ORD83,2023-04-03,2023-04-06,Second Class,Customer_83,Corporate,California,USA,US,West,528.38,7,0.12,-10.57
+ORD84,2023-12-08,2023-12-09,First Class,Customer_84,Consumer,California,USA,US,West,635.17,5,0.3,-127.03
+ORD85,2023-08-27,2023-09-02,Standard Class,Customer_85,Home Office,California,USA,US,East,522.37,6,0.28,-94.03
+ORD86,2023-12-01,2023-12-07,Standard Class,Customer_86,Corporate,New York,USA,US,Central,942.26,9,0.14,-37.69
+ORD87,2023-01-22,2023-01-23,Second Class,Customer_87,Consumer,New York,USA,US,West,912.49,9,0.04,54.75
+ORD88,2023-08-26,2023-08-27,Standard Class,Customer_88,Corporate,California,USA,US,West,895.88,10,0.08,17.92
+ORD89,2023-09-14,2023-09-19,Standard Class,Customer_89,Home Office,California,USA,US,East,455.51,3,0.14,-18.22
+ORD90,2023-08-30,2023-09-02,Second Class,Customer_90,Corporate,California,USA,US,West,610.12,2,0.13,-18.3
+ORD91,2023-07-15,2023-07-16,Second Class,Customer_91,Home Office,California,USA,US,East,948.27,5,0.22,-113.79
+ORD92,2023-10-26,2023-10-30,Standard Class,Customer_92,Corporate,New York,USA,US,East,338.47,9,0.01,30.46
+ORD93,2023-07-07,2023-07-11,First Class,Customer_93,Home Office,New York,USA,US,West,508.14,5,0.01,45.73
+ORD94,2023-03-14,2023-03-21,Second Class,Customer_94,Corporate,California,USA,US,West,864.81,8,0.19,-77.83
+ORD95,2023-02-23,2023-02-27,Standard Class,Customer_95,Home Office,California,USA,US,East,327.37,6,0.15,-16.37
+ORD96,2023-07-27,2023-07-28,Standard Class,Customer_96,Consumer,California,USA,US,Central,793.85,2,0.04,47.63
+ORD97,2023-09-26,2023-09-28,Standard Class,Customer_97,Consumer,Texas,USA,US,Central,189.56,8,0.02,15.16
+ORD98,2023-12-29,2024-01-03,First Class,Customer_98,Corporate,California,USA,US,West,794.13,7,0.1,0.0
+ORD99,2023-11-08,2023-11-12,First Class,Customer_99,Corporate,California,USA,US,Central,738.1,10,0.1,0.0
+ORD100,2023-06-14,2023-06-17,Standard Class,Customer_100,Consumer,New York,USA,US,East,865.62,6,0.29,-164.47
+ORD101,2023-06-13,2023-06-17,First Class,Customer_101,Consumer,California,USA,US,Central,757.18,1,0.15,-37.86
+ORD102,2023-03-13,2023-03-19,First Class,Customer_102,Corporate,California,USA,US,East,454.86,4,0.23,-59.13
+ORD103,2023-05-08,2023-05-13,Standard Class,Customer_103,Corporate,New York,USA,US,East,487.66,2,0.18,-39.01
+ORD104,2023-02-22,2023-03-01,Standard Class,Customer_104,Consumer,Texas,USA,US,West,851.92,9,0.16,-51.12
+ORD105,2023-08-28,2023-08-31,First Class,Customer_105,Corporate,Texas,USA,US,East,222.26,8,0.2,-22.23
+ORD106,2023-08-22,2023-08-29,Standard Class,Customer_106,Consumer,New York,USA,US,East,837.32,7,0.04,50.24
+ORD107,2023-11-30,2023-12-05,Second Class,Customer_107,Home Office,New York,USA,US,West,400.64,10,0.23,-52.08
+ORD108,2023-07-19,2023-07-26,Second Class,Customer_108,Consumer,New York,USA,US,Central,672.76,2,0.08,13.46
+ORD109,2023-06-21,2023-06-22,Standard Class,Customer_109,Consumer,Texas,USA,US,East,967.18,9,0.01,87.05
+ORD110,2023-02-25,2023-03-03,First Class,Customer_110,Home Office,Texas,USA,US,Central,449.63,10,0.09,4.5
+ORD111,2023-01-03,2023-01-05,First Class,Customer_111,Home Office,California,USA,US,East,769.25,7,0.3,-153.85
+ORD112,2023-05-05,2023-05-08,Standard Class,Customer_112,Home Office,New York,USA,US,West,282.26,8,0.14,-11.29
+ORD113,2023-01-23,2023-01-26,Second Class,Customer_113,Home Office,Texas,USA,US,Central,435.37,1,0.14,-17.41
+ORD114,2023-12-11,2023-12-16,Second Class,Customer_114,Home Office,New York,USA,US,Central,718.05,4,0.01,64.62
+ORD115,2023-01-27,2023-02-02,Standard Class,Customer_115,Home Office,New York,USA,US,Central,918.2,4,0.26,-146.91
+ORD116,2023-12-16,2023-12-21,Second Class,Customer_116,Consumer,New York,USA,US,Central,623.11,5,0.24,-87.24
+ORD117,2023-03-19,2023-03-23,Second Class,Customer_117,Corporate,California,USA,US,East,519.92,8,0.08,10.4
+ORD118,2023-02-04,2023-02-11,Standard Class,Customer_118,Corporate,California,USA,US,Central,573.65,6,0.2,-57.37
+ORD119,2023-02-07,2023-02-08,Standard Class,Customer_119,Home Office,Texas,USA,US,East,480.24,6,0.19,-43.22
+ORD120,2023-05-25,2023-05-30,Second Class,Customer_120,Consumer,Texas,USA,US,Central,227.87,2,0.29,-43.3
+ORD121,2023-02-15,2023-02-17,Second Class,Customer_121,Corporate,California,USA,US,West,480.88,4,0.24,-67.32
+ORD122,2023-11-08,2023-11-09,First Class,Customer_122,Home Office,Texas,USA,US,Central,133.35,6,0.3,-26.67
+ORD123,2023-03-04,2023-03-08,Second Class,Customer_123,Home Office,California,USA,US,West,121.6,2,0.08,2.43
+ORD124,2023-12-05,2023-12-11,Standard Class,Customer_124,Consumer,Texas,USA,US,West,642.79,8,0.23,-83.56
+ORD125,2023-07-20,2023-07-27,First Class,Customer_125,Home Office,New York,USA,US,West,408.39,8,0.18,-32.67
+ORD126,2023-08-12,2023-08-16,First Class,Customer_126,Corporate,New York,USA,US,Central,759.97,3,0.27,-129.19
+ORD127,2023-08-14,2023-08-21,First Class,Customer_127,Home Office,New York,USA,US,Central,201.32,10,0.0,20.13
+ORD128,2023-02-18,2023-02-19,First Class,Customer_128,Home Office,Texas,USA,US,West,432.38,4,0.11,-4.32
+ORD129,2023-06-18,2023-06-23,First Class,Customer_129,Corporate,California,USA,US,East,271.66,8,0.12,-5.43
+ORD130,2023-01-02,2023-01-05,First Class,Customer_130,Corporate,Texas,USA,US,East,844.29,5,0.19,-75.99
+ORD131,2023-11-09,2023-11-10,Standard Class,Customer_131,Corporate,California,USA,US,East,814.98,10,0.2,-81.5
+ORD132,2023-05-15,2023-05-16,Standard Class,Customer_132,Home Office,Texas,USA,US,Central,894.15,7,0.19,-80.47
+ORD133,2023-12-15,2023-12-17,Second Class,Customer_133,Consumer,New York,USA,US,East,123.74,8,0.18,-9.9
+ORD134,2023-06-20,2023-06-27,Standard Class,Customer_134,Home Office,Texas,USA,US,East,468.72,4,0.11,-4.69
+ORD135,2023-10-05,2023-10-11,Second Class,Customer_135,Corporate,Texas,USA,US,East,895.28,4,0.17,-62.67
+ORD136,2023-03-16,2023-03-19,Second Class,Customer_136,Home Office,California,USA,US,Central,308.2,3,0.22,-36.98
+ORD137,2023-11-19,2023-11-22,Second Class,Customer_137,Consumer,New York,USA,US,East,178.07,10,0.29,-33.83
+ORD138,2023-05-09,2023-05-10,First Class,Customer_138,Consumer,Texas,USA,US,West,925.93,7,0.2,-92.59
+ORD139,2023-12-25,2023-12-27,Standard Class,Customer_139,Home Office,Texas,USA,US,East,294.63,1,0.14,-11.79
+ORD140,2023-01-20,2023-01-23,Second Class,Customer_140,Home Office,New York,USA,US,East,771.36,2,0.18,-61.71
+ORD141,2023-07-02,2023-07-05,First Class,Customer_141,Home Office,Texas,USA,US,Central,291.06,10,0.25,-43.66
+ORD142,2023-09-27,2023-10-04,Standard Class,Customer_142,Home Office,Texas,USA,US,West,587.95,9,0.11,-5.88
+ORD143,2023-08-12,2023-08-18,Standard Class,Customer_143,Home Office,New York,USA,US,West,151.46,9,0.28,-27.26
+ORD144,2023-01-18,2023-01-19,Second Class,Customer_144,Corporate,Texas,USA,US,Central,590.06,6,0.28,-106.21
+ORD145,2023-11-07,2023-11-10,First Class,Customer_145,Consumer,Texas,USA,US,East,620.13,6,0.16,-37.21
+ORD146,2023-03-30,2023-04-06,First Class,Customer_146,Home Office,New York,USA,US,East,985.76,9,0.04,59.15
+ORD147,2023-12-23,2023-12-30,First Class,Customer_147,Corporate,New York,USA,US,East,929.47,10,0.21,-102.24
+ORD148,2023-03-27,2023-04-02,First Class,Customer_148,Home Office,New York,USA,US,West,844.11,3,0.23,-109.73
+ORD149,2023-03-30,2023-04-01,Second Class,Customer_149,Corporate,Texas,USA,US,East,222.52,1,0.23,-28.93
+ORD150,2023-07-05,2023-07-09,Standard Class,Customer_150,Home Office,California,USA,US,East,617.79,4,0.2,-61.78
+ORD151,2023-10-22,2023-10-26,Second Class,Customer_151,Home Office,California,USA,US,Central,365.02,9,0.15,-18.25
+ORD152,2023-02-14,2023-02-17,Second Class,Customer_152,Home Office,Texas,USA,US,East,274.05,8,0.1,0.0
+ORD153,2023-01-07,2023-01-09,Standard Class,Customer_153,Corporate,New York,USA,US,West,682.41,10,0.15,-34.12
+ORD154,2023-01-09,2023-01-10,First Class,Customer_154,Consumer,California,USA,US,Central,788.98,4,0.28,-142.02
+ORD155,2023-04-29,2023-05-04,Standard Class,Customer_155,Corporate,Texas,USA,US,Central,134.86,9,0.07,4.05
+ORD156,2023-04-08,2023-04-10,First Class,Customer_156,Consumer,California,USA,US,West,239.82,5,0.14,-9.59
+ORD157,2023-01-21,2023-01-26,Standard Class,Customer_157,Consumer,California,USA,US,West,362.75,8,0.25,-54.41
+ORD158,2023-08-03,2023-08-07,First Class,Customer_158,Corporate,Texas,USA,US,West,208.09,3,0.21,-22.89
+ORD159,2023-11-20,2023-11-25,First Class,Customer_159,Corporate,Texas,USA,US,Central,283.42,8,0.18,-22.67
+ORD160,2023-08-31,2023-09-01,Standard Class,Customer_160,Corporate,California,USA,US,East,809.61,10,0.28,-145.73
+ORD161,2023-01-15,2023-01-16,First Class,Customer_161,Consumer,Texas,USA,US,Central,584.48,7,0.23,-75.98
+ORD162,2023-09-04,2023-09-05,First Class,Customer_162,Home Office,New York,USA,US,West,354.2,9,0.22,-42.5
+ORD163,2023-05-13,2023-05-15,First Class,Customer_163,Corporate,California,USA,US,Central,907.4,9,0.18,-72.59
+ORD164,2023-11-16,2023-11-20,First Class,Customer_164,Corporate,Texas,USA,US,West,375.46,7,0.11,-3.75
+ORD165,2023-05-30,2023-06-04,Second Class,Customer_165,Corporate,California,USA,US,Central,278.18,9,0.04,16.69
+ORD166,2023-09-10,2023-09-14,First Class,Customer_166,Home Office,New York,USA,US,West,333.19,10,0.2,-33.32
+ORD167,2023-05-22,2023-05-25,Second Class,Customer_167,Consumer,New York,USA,US,Central,220.45,4,0.27,-37.48
+ORD168,2023-11-29,2023-12-03,First Class,Customer_168,Home Office,New York,USA,US,Central,211.69,4,0.02,16.94
+ORD169,2023-01-13,2023-01-15,First Class,Customer_169,Consumer,Texas,USA,US,West,572.29,3,0.12,-11.45
+ORD170,2023-05-26,2023-05-28,First Class,Customer_170,Consumer,California,USA,US,Central,183.88,8,0.02,14.71
+ORD171,2023-08-24,2023-08-30,Second Class,Customer_171,Corporate,New York,USA,US,East,193.72,6,0.12,-3.87
+ORD172,2023-03-15,2023-03-18,First Class,Customer_172,Home Office,Texas,USA,US,East,402.3,6,0.27,-68.39
+ORD173,2023-08-07,2023-08-14,Second Class,Customer_173,Consumer,California,USA,US,East,755.47,9,0.15,-37.77
+ORD174,2023-04-08,2023-04-11,Second Class,Customer_174,Home Office,Texas,USA,US,East,567.35,9,0.1,0.0
+ORD175,2023-12-11,2023-12-18,Second Class,Customer_175,Home Office,Texas,USA,US,Central,944.61,5,0.21,-103.91
+ORD176,2023-01-19,2023-01-26,Standard Class,Customer_176,Consumer,New York,USA,US,Central,538.44,1,0.24,-75.38
+ORD177,2023-09-25,2023-09-26,First Class,Customer_177,Corporate,Texas,USA,US,West,862.87,2,0.01,77.66
+ORD178,2023-11-19,2023-11-23,Standard Class,Customer_178,Corporate,Texas,USA,US,West,359.49,6,0.24,-50.33
+ORD179,2023-05-07,2023-05-13,First Class,Customer_179,Corporate,Texas,USA,US,Central,139.92,1,0.28,-25.19
+ORD180,2023-03-25,2023-03-28,Standard Class,Customer_180,Consumer,Texas,USA,US,Central,733.52,5,0.04,44.01
+ORD181,2023-01-16,2023-01-18,Standard Class,Customer_181,Corporate,Texas,USA,US,Central,851.24,8,0.06,34.05
+ORD182,2023-06-26,2023-06-28,Standard Class,Customer_182,Consumer,Texas,USA,US,West,880.27,1,0.02,70.42
+ORD183,2023-03-04,2023-03-07,Standard Class,Customer_183,Consumer,Texas,USA,US,East,340.77,5,0.02,27.26
+ORD184,2023-08-03,2023-08-05,Second Class,Customer_184,Corporate,Texas,USA,US,West,224.78,4,0.05,11.24
+ORD185,2023-06-09,2023-06-10,First Class,Customer_185,Consumer,Texas,USA,US,Central,975.36,8,0.12,-19.51
+ORD186,2023-01-30,2023-01-31,Standard Class,Customer_186,Corporate,California,USA,US,West,247.08,6,0.09,2.47
+ORD187,2023-09-21,2023-09-24,Second Class,Customer_187,Corporate,California,USA,US,West,431.26,10,0.0,43.13
+ORD188,2023-02-12,2023-02-13,Second Class,Customer_188,Corporate,New York,USA,US,East,447.99,8,0.18,-35.84
+ORD189,2023-04-09,2023-04-14,Second Class,Customer_189,Corporate,Texas,USA,US,East,159.21,4,0.24,-22.29
+ORD190,2023-12-24,2023-12-27,Second Class,Customer_190,Home Office,California,USA,US,Central,331.29,4,0.13,-9.94
+ORD191,2023-03-28,2023-04-01,Second Class,Customer_191,Corporate,California,USA,US,Central,288.74,3,0.08,5.77
+ORD192,2023-03-29,2023-04-05,First Class,Customer_192,Corporate,New York,USA,US,East,879.14,1,0.09,8.79
+ORD193,2023-07-10,2023-07-14,Second Class,Customer_193,Home Office,California,USA,US,Central,895.23,3,0.2,-89.52
+ORD194,2023-06-30,2023-07-07,Second Class,Customer_194,Home Office,California,USA,US,Central,362.32,9,0.19,-32.61
+ORD195,2023-04-27,2023-05-01,Standard Class,Customer_195,Consumer,Texas,USA,US,Central,488.15,7,0.22,-58.58
+ORD196,2023-12-23,2023-12-24,Second Class,Customer_196,Corporate,Texas,USA,US,East,630.77,9,0.25,-94.62
+ORD197,2023-04-14,2023-04-19,Standard Class,Customer_197,Corporate,California,USA,US,West,156.74,1,0.14,-6.27
+ORD198,2023-03-08,2023-03-13,Second Class,Customer_198,Corporate,New York,USA,US,Central,393.98,5,0.18,-31.52
+ORD199,2023-05-15,2023-05-19,Standard Class,Customer_199,Corporate,Texas,USA,US,Central,406.18,7,0.13,-12.19
+ORD200,2023-09-11,2023-09-18,Second Class,Customer_200,Home Office,New York,USA,US,East,165.1,2,0.14,-6.6
